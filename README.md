@@ -70,7 +70,7 @@ The Family Tree AI program is designed to take input from a user and determine i
 ### Adding Family Members / Creating Your Own Tree
 If you'd like to add members or create your own family tree, you can do so by doing the following steps:
 
-1. Edit the "Family Tree Ai.pl" file
+1. Edit the `Family Tree Ai.pl` file
     - File -> Edit -> Navigate and select the `Family Tree Ai.pl` file
 2. Enter a person's name and the gender using either `male(*X*).` or `female(*Y*).`
     - ex: `male(mitchee).`
