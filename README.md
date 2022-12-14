@@ -78,4 +78,4 @@ If you'd like to add members or create your own family tree, you can do so by do
     - ex: `parent_of(cynthia, mitchee).`
 
 # Default Family Tree Reference Image
-![Family Tree Image](github.com/MitcheeCostelo/Prolog-Family-Tree/blob/main/Image/Family%20Tree.png?raw=true)
+![Family Tree Image](https://github.com/MitcheeCostelo/Prolog-Family-Tree/blob/main/Image/Family%20Tree.png)
